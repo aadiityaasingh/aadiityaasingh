@@ -5,11 +5,10 @@ I'm a Computer Science student focused on **Data Structures & Algorithms**, **ba
 ### What I work on
 - Solving DSA problems in **Java** with a focus on clean logic and time–space tradeoffs  
 - Building backend services using **Node.js, Express, MongoDB**
-- Strengthening **CS fundamentals** (OS, CN, DBMS) for interviews
+- Strengthening **CS fundamentals**.
 - Converting concepts into projects instead of tutorial junk
 
 ### Current Focus
-- Consistent LeetCode practice (problem-solving > brute memorization)
 - Designing scalable backend APIs
 - Writing cleaner, more maintainable code
 
