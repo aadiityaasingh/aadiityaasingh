@@ -23,4 +23,4 @@ I'm a Computer Science student focused on **Data Structures & Algorithms**, **ba
 I don’t chase buzzwords.  
 I care about **fundamentals, consistency, and shipping things that work**.
 
-📫 Reach me: *(add LinkedIn / email here)*
+📫 Reach me: *https://www.linkedin.com/in/aditya-singh-245226231 / adityasingh.6488@gmail.com*
