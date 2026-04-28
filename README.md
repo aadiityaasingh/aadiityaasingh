@@ -1,25 +1,39 @@
-## Hi, I'm Aadii 👋
+## Aditya Singh
 
-I'm a Computer Science student focused on **Data Structures & Algorithms**, **backend development**, and **building real-world systems**.
+Computer Science student building strong foundations in backend systems, data structures, and software design.
+
+---
 
 ### What I work on
-- Solving DSA problems in **Java** with a focus on clean logic and time–space tradeoffs  
-- Building backend services using **Node.js, Express, MongoDB**
-- Strengthening **CS fundamentals**.
-- Converting concepts into projects instead of tutorial junk
 
-### Current Focus
-- Designing scalable backend APIs
-- Writing cleaner, more maintainable code
+- **DSA in Java** — solving problems with focus on correctness, clean logic, and time–space tradeoffs
+- **Backend development** — building REST APIs and services with Node.js, Express, and MongoDB
+- **Real-world projects** — turning CS concepts into functional systems, not just tutorial walkthroughs
 
-### Tech Stack
-- **Languages:** Java, JavaScript  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman
+---
 
-### Mindset
-I don’t chase buzzwords.  
-I care about **fundamentals, consistency, and shipping things that work**.
+### Current focus
 
-📫 Reach me: *https://www.linkedin.com/in/aditya-singh-245226231 / adityasingh.6488@gmail.com*
+- Designing scalable, maintainable backend APIs
+- Writing code that's readable, modular, and built to last
+
+---
+
+### Tech stack
+
+| Layer | Tools |
+|---|---|
+| Languages | Java, JavaScript |
+| Backend | Node.js, Express |
+| Databases | MongoDB, MySQL |
+| Tooling | Git, GitHub, Postman |
+
+---
+
+### Approach
+
+I prioritize fundamentals over frameworks and consistency over speed. If something ships, it should work well and be easy to reason about.
+
+---
+
+📬 [LinkedIn](https://www.linkedin.com/in/aditya-singh-245226231) · [adityasingh.6488@gmail.com](mailto:adityasingh.6488@gmail.com)
