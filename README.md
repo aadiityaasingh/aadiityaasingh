@@ -1,38 +1,40 @@
 ## Aditya Singh
 
-Computer Science student building strong foundations in backend systems, data structures, and software design.
+Computer Science student focused on building reliable backend systems, with strong foundations in data structures and software design.
 
 ---
 
 ### What I work on
 
-- **DSA in Java** — solving problems with focus on correctness, clean logic, and time–space tradeoffs
-- **Backend development** — building REST APIs and services with Node.js, Express, and MongoDB
-- **Real-world projects** — turning CS concepts into functional systems, not just tutorial walkthroughs
+* **DSA in Java** — solving problems with emphasis on clean logic, edge cases, and time–space efficiency
+* **Backend development** — designing RESTful APIs using Node.js, Express, and MongoDB
+* **Real-world systems** — applying core CS concepts to build structured, maintainable applications
 
 ---
 
 ### Current focus
 
-- Designing scalable, maintainable backend APIs
-- Writing code that's readable, modular, and built to last
+* Designing scalable and well-structured backend architectures
+* Writing modular, readable, and production-oriented code
+* Strengthening problem-solving through consistent DSA practice
 
 ---
 
 ### Tech stack
 
-| Layer | Tools |
-|---|---|
-| Languages | Java, JavaScript |
-| Backend | Node.js, Express |
-| Databases | MongoDB, MySQL |
-| Tooling | Git, GitHub, Postman |
+| Layer     | Tools                |
+| --------- | -------------------- |
+| Languages | Java, JavaScript     |
+| Backend   | Node.js, Express     |
+| Databases | MongoDB, MySQL       |
+| Tooling   | Git, GitHub, Postman |
 
 ---
 
 ### Approach
 
-I prioritize fundamentals over frameworks and consistency over speed. If something ships, it should work well and be easy to reason about.
+I focus on fundamentals over shortcuts and clarity over complexity.
+If something is built, it should be reliable, maintainable, and easy to understand.
 
 ---
 
